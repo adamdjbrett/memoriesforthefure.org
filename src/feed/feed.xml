@@ -1,0 +1,21 @@
+---
+layout: null
+permalink: /feed/feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>memories for the future</title>
+    <link>https://memoriesforthefuture.org</link>
+    <description>Coming soon - memories for the future</description>
+    <language>en-us</language>
+    <lastBuildDate>{{ "now" | isoDateString }}</lastBuildDate>
+    <item>
+      <title>Coming Soon</title>
+      <link>https://memoriesforthefuture.org/</link>
+      <guid>https://memoriesforthefuture.org/coming-soon</guid>
+      <pubDate>{{ "now" | isoDateString }}</pubDate>
+      <description>Something wonderful is coming. Stay tuned.</description>
+    </item>
+  </channel>
+</rss>

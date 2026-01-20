@@ -1,0 +1,12 @@
+/* HUMANS.TXT */
+/* THE HUMANS BEHIND THIS WEBSITE */
+
+/* TEAM */
+Team: memories for the future
+*/
+
+/* SITE */
+Last update: 2026/01/19
+Standards: HTML5, CSS3
+Components: 11ty, Nunjucks, Luxon
+Powered by: Eleventy
